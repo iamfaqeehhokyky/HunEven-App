@@ -7,3 +7,6 @@ This app only helps user to get the even number separated from the odd numbers. 
 User will have to click The App from the nav bar, input the starting digit and the ending digit. Then click on the Display HunEven button.
 
 All the numbers within that range will be displayed leaving the even numbers in bold characters.
+
+# Live Web View
+https://huneven.netlify.app/
